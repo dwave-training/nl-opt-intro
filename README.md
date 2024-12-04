@@ -9,7 +9,8 @@ This github repository contains exercises to help users understand the basics of
 Open NL Solver Basics.ipynb and follow the instructions to minimze the equation $y = i^2 - 4i$.
 
 # References
-Reference the following links for documentation :
+Reference the following links for documentation:
+
 https://docs.ocean.dwavesys.com/en/latest/docs_optimization/intro.html
 https://docs.ocean.dwavesys.com/en/latest/docs_system/reference/samplers.html#leaphybridnlsampler
 
