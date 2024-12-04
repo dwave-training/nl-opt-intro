@@ -6,5 +6,5 @@ https://docs.ocean.dwavesys.com/en/latest/docs_optimization/intro.html
 https://docs.ocean.dwavesys.com/en/latest/docs_optimization/intro.html
 
 
-# Exercise 1: Oeen NL Solver Basics.ipynb and follow the instructions to minimze the equation $y = i^2 - 4i$.
+# Exercise 1: Open NL Solver Basics.ipynb and follow the instructions to minimze the equation $y = i^2 - 4i$.
 
