@@ -6,7 +6,10 @@
 This github repository contains exercises to help users understand the basics of how to run D-Wave's Nonlinear Model and Nonlinear Solver.
 
 # Exercise 1
-Open NL Solver Basics.ipynb and follow the instructions to minimze the equation $y = i^2 - 4i$.
+Open "NL Solver Basics.ipynb" and follow the instructions to minimze the equation $y = i^2 - 4i$.
+
+# Exercise 2
+Open "NL Solver-Constraints.ipynb" and follow the instructions to create a simple model with an objective and 2 constraints
 
 # References
 Reference the following links for documentation:
