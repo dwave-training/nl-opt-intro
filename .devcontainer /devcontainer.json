@@ -44,7 +44,8 @@
 			},
 			"extensions": [
 				"ms-python.python",
-				"ms-toolsai.jupyter"
+				"ms-toolsai.jupyter",
+				"yzhang.markdown-all-in-one"
 			]
 		}
 	}
