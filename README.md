@@ -11,6 +11,10 @@ Open "NL Solver Basics.ipynb" and follow the instructions to minimze the equatio
 # Exercise 2
 Open "NL Solver-Constraints.ipynb" and follow the instructions to create a simple model with an objective and 2 constraints
 
+# Exercises 3 and 4
+
+Open "NL Solver-Data Types-Set and List.ipynb" and follow the instructions
+
 # References
 Reference the following links for documentation:
 
