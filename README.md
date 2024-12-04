@@ -12,3 +12,6 @@ Open NL Solver Basics.ipynb and follow the instructions to minimze the equation 
 Reference the following links for documentation on the Nonlinear Solver:
 https://docs.ocean.dwavesys.com/en/latest/docs_optimization/intro.html
 https://docs.ocean.dwavesys.com/en/latest/docs_optimization/intro.html
+
+# License
+Released under the Apache License 2.0. See [license](LICENSE) here.
