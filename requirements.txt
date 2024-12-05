@@ -1,2 +1,2 @@
-dwave-ocean-sdk>=4.1
+dwave-ocean-sdk>=7.0.0
 dagviz>=0.4.0
