@@ -8,7 +8,10 @@
 	"image": "docker.io/dwavesys/ocean-dev:latest",
 
 	// install repo requirements on create and content update
-	"updateContentCommand": "pip install -r requirements.txt",
+	// NOTE: we currently use deprecated pip resolver to prevent codespace build from failing,
+	// because we know latest dagviz is clashing with latest Ocean due to conflicting
+	// requirements on a shared dependency, networkx.
+	"updateContentCommand": "pip install -r requirements.txt --use-deprecated=legacy-resolver",
 
 	// forward/expose container services (relevant only when run locally)
 	"forwardPorts": [
