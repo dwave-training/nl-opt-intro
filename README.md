@@ -15,10 +15,6 @@ Open "NL Solver-Constraints.ipynb" and follow the instructions to create a simpl
 
 Open "NL Solver-Data Types-Set and List.ipynb" and follow the instructions.
 
-# Exercises 5
-
-Open "NL Solver Matrices.ipynb" and follow the instructions.
-
 # References
 Reference the following links for documentation:
 
